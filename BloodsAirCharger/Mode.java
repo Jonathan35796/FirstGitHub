@@ -1,0 +1,15 @@
+package scripts.BloodsAirCharger;
+
+public enum Mode {
+	DEADWALK,
+	BANKEAT,
+	CHARGEORBS,
+	DEPOSITITEMS,
+	EATWALK,
+	NEWGLORY,
+	OPENBANK,
+	TELEPORT,
+	WALKTOALTAR,
+	WALKTOBANK,
+	WITHDRAWITEMS;
+}
